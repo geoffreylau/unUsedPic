@@ -1,6 +1,6 @@
 ### 搜索ios工程当前目录下未使用的图片资源脚本
 
-~python
+｀｀｀python
 # coding=utf-8
 import glob
 import os
@@ -31,4 +31,4 @@ def find_un_used():
 
 if __name__ == '__main__':
     find_un_used()
-~
+｀｀｀
